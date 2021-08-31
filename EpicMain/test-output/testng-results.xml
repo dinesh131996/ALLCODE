@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="196628" started-at="2021-05-31T11:30:19Z" finished-at="2021-05-31T11:33:36Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="108732" started-at="2021-05-31T11:30:19Z" finished-at="2021-05-31T11:32:08Z">
+      <class name="Execute.startExecute">
+        <test-method status="PASS" signature="EpicTest()[pri:0, instance:Execute.startExecute@1786dec2]" name="EpicTest" duration-ms="108653" started-at="2021-05-31T11:30:19Z" finished-at="2021-05-31T11:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EpicTest -->
+      </class> <!-- Execute.startExecute -->
+    </test> <!-- Test1 -->
+    <test name="Test" duration-ms="196628" started-at="2021-05-31T11:30:19Z" finished-at="2021-05-31T11:33:36Z">
+      <class name="Execute.startExecute">
+        <test-method status="PASS" signature="EpicTest()[pri:0, instance:Execute.startExecute@9660f4e]" name="EpicTest" duration-ms="196568" started-at="2021-05-31T11:30:19Z" finished-at="2021-05-31T11:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EpicTest -->
+      </class> <!-- Execute.startExecute -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

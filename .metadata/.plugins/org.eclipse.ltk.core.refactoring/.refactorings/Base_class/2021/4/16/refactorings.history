@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Base_class.java&apos; to &apos;U_Cucumber/src/main/java/Base_Class&apos;&#x0D;&#x0A;- Original project: &apos;Base_class&apos;&#x0D;&#x0A;- Destination element: &apos;U_Cucumber/src/main/java/Base_Class&apos;&#x0D;&#x0A;- Original element: &apos;com.selenium.orgg.Base_class.java&apos;" description="Copy compilation unit" destination="=U_Cucumber/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Base_Class" element1="/src&lt;com.selenium.orgg{Base_class.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1618113782572" units="1" version="1.0"/>
+</session>

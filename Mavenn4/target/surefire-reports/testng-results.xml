@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="61" started-at="2021-03-03T16:33:26Z" finished-at="2021-03-03T16:33:26Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="61" started-at="2021-03-03T16:33:26Z" finished-at="2021-03-03T16:33:26Z">
+      <class name="com.mavenn.pro.Mavenn4.Applicationss">
+        <test-method status="PASS" signature="boy()[pri:0, instance:com.mavenn.pro.Mavenn4.Applicationss@34ce8af7]" name="boy" duration-ms="18" started-at="2021-03-03T16:33:26Z" finished-at="2021-03-03T16:33:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boy -->
+      </class> <!-- com.mavenn.pro.Mavenn4.Applicationss -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

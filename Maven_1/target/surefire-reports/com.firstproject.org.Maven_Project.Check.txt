@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.firstproject.org.Maven_Project.Check
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.071 s <<< FAILURE! - in com.firstproject.org.Maven_Project.Check
+initializationError(com.firstproject.org.Maven_Project.Check)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.Exception: Method sum() should not be static
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Base_class.java&apos; to &apos;T_Cucumber/src/main/java/com.base.org&apos;&#x0D;&#x0A;- Original project: &apos;Adactin&apos;&#x0D;&#x0A;- Destination element: &apos;T_Cucumber/src/main/java/com.base.org&apos;&#x0D;&#x0A;- Original element: &apos;com.baseclass.org.Base_class.java&apos;" description="Copy compilation unit" destination="=T_Cucumber/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.base.org" element1="/src&lt;com.baseclass.org{Base_class.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1615358226863" units="1" version="1.0"/>
+</session>

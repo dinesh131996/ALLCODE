@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mavenn.pro.Mavenn4.Applicationss
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.576 s - in com.mavenn.pro.Mavenn4.Applicationss

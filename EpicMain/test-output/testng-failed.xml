@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="5" name="Test1(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Execute.startExecute">
+        <methods>
+          <include name="EpicTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Execute.startExecute -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="5" name="Test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Execute.startExecute">
+        <methods>
+          <include name="EpicTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Execute.startExecute -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

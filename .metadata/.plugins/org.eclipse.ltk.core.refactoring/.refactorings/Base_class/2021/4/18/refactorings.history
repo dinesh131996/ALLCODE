@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ToKnowTheLink.java&apos; to &apos;Adactin/src&apos;&#x0D;&#x0A;- Original project: &apos;Base_class&apos;&#x0D;&#x0A;- Destination element: &apos;Adactin/src&apos;&#x0D;&#x0A;- Original element: &apos;com.selenium.orgg.ToKnowTheLink.java&apos;" description="Copy compilation unit" destination="=Adactin/src" element1="/src&lt;com.selenium.orgg{ToKnowTheLink.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1619413501285" units="1" version="1.0"/>
+</session>

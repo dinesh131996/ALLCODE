@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 2.196 s <<< FAILURE! - in TestSuite
+chroe(com.first.Parallel_Test)  Time elapsed: 0.306 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Mani\eclipse-workspace\Maven_Project\driver\chromedriver.exe
+	at com.first.Parallel_Test.chroe(Parallel_Test.java:11)
+
+face(com.first.Parallel_Test)  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Mani\eclipse-workspace\Maven_Project\driver\chromedriver.exe
+	at com.first.Parallel_Test.face(Parallel_Test.java:17)
+
+youtube(com.first.Parallel_Test)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Mani\eclipse-workspace\Maven_Project\driver\chromedriver.exe
+	at com.first.Parallel_Test.youtube(Parallel_Test.java:23)
+
